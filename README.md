@@ -5,5 +5,6 @@
 4. In the project directory, you can run:
    a. Install Dependencies: Run npm install to install all the required dependencies.
    #npm install
+   
    b. Start the Development Server: Use npm start to start the development server.
    #npm start
