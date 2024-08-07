@@ -1,0 +1,29 @@
+/* src/components/Card.css */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 150px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .card-image {
+    width: 100%;
+    height: 500px;
+  }
+  
+  .card-content {
+    padding: 10px;
+  }
+  
+  .card-content h3 {
+    font-size: 1.2em;
+    margin: 0 0 10px;
+  }
+  
+  .card-content p {
+    font-size: 0.9em;
+    color: #555;
+  }
+  
